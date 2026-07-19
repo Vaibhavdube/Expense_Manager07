@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("/income")
+@RequestMapping("/incomes")
 public class IncomeController {
 
     private final IncomeService incomeService;
