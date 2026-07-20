@@ -59,6 +59,10 @@ Expense Manager Backend is a secure and scalable REST API that helps users manag
 
 ![Login API](https://github.com/Vaibhavdube/Expense_Manager_Backend/blob/master/Screenshot%202026-07-20%20201618.png)
 
+## Postman Testing
+
+![postman](https://github.com/Vaibhavdube/Expense_Manager_Backend/blob/master/Screenshot%202026-07-20%20213446.png)
+
 ---
 
 ## Email Verification
