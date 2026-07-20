@@ -19,7 +19,7 @@ Built with **Java 21**, **Spring Boot**, **Spring Security**, **JWT**, **Postgre
 
 ### 🎨 Backend (render)
 
-👉 https://expense-manager07.onrender.com
+👉 https://expense-manager07.onrender.com/api/v2.0/health
 
 ---
 
