@@ -83,7 +83,7 @@ public class ProfileController {
                         .body(
                                 Map.of(
                                         "message",
-                                        "Please verify your email first."
+                                        "User Not Registered"
                                 )
                         );
             }
