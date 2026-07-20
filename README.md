@@ -57,7 +57,7 @@ Expense Manager Backend is a secure and scalable REST API that helps users manag
 
 ## Login API
 
-![Login API](images/login-api.png)
+![Login API](Screenshot 2026-07-20 201618.png)
 
 ---
 
